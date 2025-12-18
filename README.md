@@ -12,11 +12,11 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ## About Me
 
-- Management Engineering student with a passion for building data-driven intelligent systems
-- Specializing in **Data Engineering**, **Machine Learning**, and **Data Science**
-- Building scalable data pipelines and ML models that solve real-world problems
-- Currently exploring **Computer Vision** and **Deep Learning** architectures
-- Enthusiast for clean code, efficient algorithms, and robust system design
+- First-year Management Engineering student diving deep into the world of data
+- Proficient in **Python** and exploring **Data Science**, **Machine Learning**, and **Data Engineering**
+- Currently learning **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)**
+- Building projects to understand data pipelines, APIs, and real-world applications
+- Passionate about leveraging data to solve problems and create impact
 
 ---
 
