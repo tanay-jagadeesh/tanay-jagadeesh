@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanay%20Jagadeesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</div>
-
 # Hey, I'm Tanay Jagadeesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
