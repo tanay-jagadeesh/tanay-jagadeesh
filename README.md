@@ -96,11 +96,25 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ## Let's Connect
 
-I'm always excited to connect with fellow developers or collaborate on interesting projects.
+<div align="center">
 
-**Email:** [tanayj2107@gmail.com](mailto:tanayj2107@gmail.com)
+### I'm always excited to connect with fellow developers or collaborate on interesting projects!
 
-**LinkedIn:** [linkedin.com/in/tanay-jagadeesh](https://linkedin.com/in/tanay-jagadeesh)
+<p>
+  <a href="mailto:tanayj2107@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/tanay-jagadeesh">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/tanay-jagadeesh">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+</p>
+
+### Open to opportunities in Data Engineering, ML, and Software Development!
+
+</div>
 
 ---
 
