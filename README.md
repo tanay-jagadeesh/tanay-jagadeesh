@@ -1,4 +1,8 @@
-# Hey, I'm Tanay Jagadeesh
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanay%20Jagadeesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
+
+# Hey, I'm Tanay Jagadeesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Aspiring+Machine+Learning+Engineer;Aspiring+Software+Developer" alt="Typing SVG" /></a>
