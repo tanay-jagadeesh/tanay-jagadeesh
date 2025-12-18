@@ -1,6 +1,8 @@
 # Hey, I'm Tanay Jagadeesh
 
-### Data Engineer | Machine Learning Engineer | Software Developer
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Machine+Learning+Engineer;Software+Developer" alt="Typing SVG" /></a>
+</p>
 
 If you don't see me coding, I'm probably on the court 🏀, strategizing over a chess board ♟️ , or hitting the gym 🏋🏻‍♂️.
 
