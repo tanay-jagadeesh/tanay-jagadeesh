@@ -12,7 +12,7 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ## About Me
 
-- Software Engineering student with a passion for building data-driven intelligent systems
+- Management Engineering student with a passion for building data-driven intelligent systems
 - Specializing in **Data Engineering**, **Machine Learning**, and **Data Science**
 - Building scalable data pipelines and ML models that solve real-world problems
 - Currently exploring **Computer Vision** and **Deep Learning** architectures
