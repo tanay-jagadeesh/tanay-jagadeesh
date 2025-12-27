@@ -103,13 +103,13 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 <p>
   <a href="mailto:tanayj2107@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/tanay-jagadeesh">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/tanay-jagadeesh">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
