@@ -10,12 +10,12 @@
 
 ## 👨‍💻 About Me
 
-- First-Year Management Engineering Student
-- Focused on **Data Engineering**, **Machine Learning**, and **Software Development**
-- Currently exploring **Natural Language Processing**, **Retrieval-Augmented Generation**, **PySpark**, and **Databricks**
-- Working towards **Microsoft Azure Fundamentals (AZ-900)** certification
-- Passionate about building scalable, data-driven solutions that transform insights into impact
-- Beyond coding: Basketball • Chess • Fitness
+▸ First-Year Management Engineering Student
+▸ Focused on **Data Engineering**, **Machine Learning**, and **Software Development**
+▸ Currently exploring **Natural Language Processing**, **Retrieval-Augmented Generation**, **PySpark**, and **Databricks**
+▸ Working towards **Microsoft Azure Fundamentals (AZ-900)** certification
+▸ Passionate about building scalable, data-driven solutions that transform insights into impact
+▸ Beyond coding: Basketball • Chess • Fitness
 
 ---
 
@@ -23,20 +23,22 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Building
-- **Stock Market News API** - yfinance + FastAPI + SQLite
-- **NLP Projects** - Exploring RAG architectures
-- **Data Pipelines** - Learning PySpark & Databricks
+
+▸ **Stock Market News API** - yfinance + FastAPI + SQLite
+▸ **NLP Projects** - Exploring RAG architectures
+▸ **Data Pipelines** - Learning PySpark & Databricks
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Learning
-- **Cloud Computing** - Azure Fundamentals (AZ-900)
-- **Algorithms** - LeetCode daily grind
-- **ML Algorithms** - K-means, supervised learning models
+
+▸ **Cloud Computing** - Azure Fundamentals (AZ-900)
+▸ **Algorithms** - LeetCode daily grind
+▸ **ML Algorithms** - K-means, supervised learning models
 
 </td>
 </tr>
