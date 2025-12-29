@@ -17,19 +17,41 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="33%">
 
-**First-Year Management Engineering Student** passionate about turning data into insights and building intelligent systems.
+### Role
+First-Year Management Engineering Student
 
-I specialize in **Data Engineering**, **Machine Learning**, and **Software Development**, with a focus on creating scalable solutions that make an impact.
+### Focus Areas
+▸ Data Engineering
+▸ Machine Learning
+▸ Software Development
 
-**Currently exploring:** Natural Language Processing • Retrieval-Augmented Generation • PySpark • Databricks
+</td>
+<td width="33%">
 
-**Working towards:** Microsoft Azure Fundamentals (AZ-900)
+### Currently Exploring
+Natural Language Processing
+Retrieval-Augmented Generation
+PySpark & Databricks
 
-**Beyond coding:** Basketball 🏀 • Chess ♟️ • Fitness 🏋🏻‍♂️
+### Certifications
+Microsoft Azure AZ-900 (In Progress)
 
-</div>
+</td>
+<td width="33%">
+
+### Mission
+Building scalable, data-driven solutions that transform insights into impact
+
+### Beyond Code
+Basketball • Chess • Fitness
+
+</td>
+</tr>
+</table>
 
 ---
 
