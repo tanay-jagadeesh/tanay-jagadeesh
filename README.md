@@ -17,24 +17,19 @@
 
 ## 👨‍💻 About Me
 
-```python
-class TanayJagadeesh:
-    def __init__(self):
-        self.role = "First-Year Management Engineering Student"
-        self.focus = ["Data Engineering", "Machine Learning", "Software Development"]
-        self.currently_learning = ["NLP", "RAG", "PySpark", "Databricks"]
-        self.certifications = ["Microsoft Azure AZ-900 (In Progress)"]
-        self.hobbies = ["Basketball 🏀", "Chess ♟️", "Fitness 🏋🏻‍♂️"]
+<div align="center">
 
-    def get_current_status(self):
-        return "Building data-driven solutions and exploring ML algorithms"
+**First-Year Management Engineering Student** passionate about turning data into insights and building intelligent systems.
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together!")
+I specialize in **Data Engineering**, **Machine Learning**, and **Software Development**, with a focus on creating scalable solutions that make an impact.
 
-me = TanayJagadeesh()
-me.say_hi()
-```
+**Currently exploring:** Natural Language Processing • Retrieval-Augmented Generation • PySpark • Databricks
+
+**Working towards:** Microsoft Azure Fundamentals (AZ-900)
+
+**Beyond coding:** Basketball 🏀 • Chess ♟️ • Fitness 🏋🏻‍♂️
+
+</div>
 
 ---
 
@@ -104,16 +99,7 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=tanay-jagadeesh&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanay-jagadeesh&theme=radical" alt="Productive Time" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanay-jagadeesh&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanay-jagadeesh&theme=radical" alt="Profile Details" />
 </div>
 
 ---
