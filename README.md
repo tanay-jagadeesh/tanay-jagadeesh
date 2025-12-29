@@ -1,16 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanay%20Jagadeesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanay%20Jagadeesh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=55" />
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Enthusiast;Building+the+Future+with+Data;Python+%7C+Cloud+%7C+Analytics" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanay-jagadeesh&color=blueviolet&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/tanay-jagadeesh?tab=followers">
-    <img src="https://img.shields.io/github/followers/tanay-jagadeesh?label=Followers&style=flat-square&color=blueviolet" alt="followers" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Data;Python+%7C+Cloud+%7C+Analytics;Transforming+Insights+into+Impact" alt="Typing SVG" /></a>
 </p>
 
 ---
