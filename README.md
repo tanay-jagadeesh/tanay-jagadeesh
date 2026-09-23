@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./d.png" width="100%" alt="Tanay Jagadeesh" />
-</div>
 
 ---
 
