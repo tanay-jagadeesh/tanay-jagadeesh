@@ -2,7 +2,7 @@
 ---
 
 
-<img src="./2.png" height="28" width="28" align="absmiddle"/> &nbsp;Building **voice agents** and a **referral pipeline** with [Wedge (YCS25)](https://www.ycombinator.com/companies/wedge) as a Member of Technical Staff Intern
+<img src="./2.png" height="28" width="28" align="absmiddle"/> &nbsp;Built **voice agents** and a **referral pipeline** with [Wedge (YCS25)](https://www.ycombinator.com/companies/wedge) as a Member of Technical Staff Intern
 
 <img src="./4.png" height="28" width="28" align="absmiddle"/> &nbsp; **Data Science Intern** @ Workplace Safety and Insurance Board (WSIB)
 
